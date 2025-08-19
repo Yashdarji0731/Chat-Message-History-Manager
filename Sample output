@@ -1,0 +1,80 @@
+Sample output 
+
+=== Chat Menu ===
+1. Send a new message
+2. View chat history
+3. Undo last message
+4. Redo last undone message
+5. Exit
+Enter choice (1-5): 1
+Enter your message: Hello
+Message sent: [2025-08-19 18:23:41] Hello
+
+=== Chat Menu ===
+1. Send a new message
+2. View chat history
+3. Undo last message
+4. Redo last undone message
+5. Exit
+Enter choice (1-5): 1
+Enter your message: World
+Message sent: [2025-08-19 18:23:41] World
+
+=== Chat Menu ===
+1. Send a new message
+2. View chat history
+3. Undo last message
+4. Redo last undone message
+5. Exit
+Enter choice (1-5): 2
+Chat History:
+[2025-08-19 18:23:41] Hello
+[2025-08-19 18:23:41] World
+
+=== Chat Menu ===
+1. Send a new message
+2. View chat history
+3. Undo last message
+4. Redo last undone message
+5. Exit
+Enter choice (1-5): 3
+Undid message: [2025-08-19 18:23:41] World
+
+=== Chat Menu ===
+1. Send a new message
+2. View chat history
+3. Undo last message
+4. Redo last undone message
+5. Exit
+Enter choice (1-5): 2
+Chat History:
+[2025-08-19 18:23:41] Hello
+
+=== Chat Menu ===
+1. Send a new message
+2. View chat history
+3. Undo last message
+4. Redo last undone message
+5. Exit
+Enter choice (1-5): 4
+Redid message: [2025-08-19 18:23:41] World
+
+=== Chat Menu ===
+1. Send a new message
+2. View chat history
+3. Undo last message
+4. Redo last undone message
+5. Exit
+Enter choice (1-5): 2
+Chat History:
+[2025-08-19 18:23:41] Hello
+[2025-08-19 18:23:41] World
+
+=== Chat Menu ===
+1. Send a new message
+2. View chat history
+3. Undo last message
+4. Redo last undone message
+5. Exit
+Enter choice (1-5): 5
+Exiting chat.
